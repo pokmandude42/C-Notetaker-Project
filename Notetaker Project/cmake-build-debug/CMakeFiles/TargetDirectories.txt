@@ -1,0 +1,3 @@
+D:/Downloads/Notetaker Project/cmake-build-debug/CMakeFiles/Notetaker_Project.dir
+D:/Downloads/Notetaker Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Downloads/Notetaker Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
